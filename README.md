@@ -19,7 +19,7 @@
 
 - 📫 Reach me through **maitrasuhani@gmail.com**
   
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yP8VzR0YBN53ntou7D7BXqv1_Jwr1L2A/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18tsMM8ULqJ08bzbLzxgkPPCQoOnIjpRQ/view?usp=drive_link)
 
 - ⚡ Fun fact **Along with tech, I too am highly invested in Indian Classical Dance, Music Instruments and Art**
 
