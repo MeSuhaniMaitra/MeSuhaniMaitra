@@ -9,17 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanimaitra&label=Profile%20views&color=0e75b6&style=flat" alt="suhanimaitra" /> </p>
 
-- 🔭 I’m currently working on **SpringCube using Three.js**
+- 🔭 I’m currently working with **Data Analytics**
 
-- 🌱 I’m currently learning **Prompt Engineering, Salesforce**
+- 🌱 I’m currently learning **Advanced Data Analytics**
 
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **Salesforce**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Tablue, PowerBI**
 
 - 📫 Reach me through **maitrasuhani@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GXg-RUrmyyN5xqbqnTwrktaEADAfJYaz/view?usp=sharing](https://drive.google.com/file/d/1GXg-RUrmyyN5xqbqnTwrktaEADAfJYaz/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yP8VzR0YBN53ntou7D7BXqv1_Jwr1L2A/view?usp=sharing)
 
 - ⚡ Fun fact **Along with tech, I too am highly invested in Indian Classical Dance, Music Instruments and Art**
 
